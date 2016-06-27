@@ -1,0 +1,2 @@
+# DesignPatternsInDrawBoard
+在简单功能的画板应用中使用多种设计模式，以实际应用场景探究设计模式的精妙之处
